@@ -1,5 +1,6 @@
 # Zomato-Business-Insights-Data-Analysis-Visualization-using-Python
 End-to-end exploratory data analysis of Zomato restaurant data to derive business insights using Python, Pandas, and data visualization libraries.
+
 📌 Project Overview
 
 The restaurant and food delivery industry generates huge amounts of data related to customer preferences, restaurant ratings, pricing, cuisines, and ordering behavior. Analyzing this data can help businesses understand customer trends and make better strategic decisions.
